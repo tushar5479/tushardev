@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Pool Table Tracker — billiards management dashboard concept</title>
+  <desc id="desc">An original interface illustration showing a live pool hall dashboard with a table grid, teal billiard tables, session timers and a match score. This is an artistic reconstruction, not a screenshot.</desc>
+  <defs>
+    <filter id="shadow" x="10" y="10" width="1180" height="800" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#253A30" flood-opacity=".14"/></filter>
+    <clipPath id="window"><rect x="70" y="58" width="1060" height="704" rx="18"/></clipPath>
+    <g id="poolTable">
+      <rect width="160" height="91" rx="11" fill="#A38C66"/>
+      <rect x="5" y="5" width="150" height="81" rx="8" fill="#3B5648"/>
+      <rect x="12" y="12" width="136" height="67" rx="3" fill="#5D9987"/>
+      <rect x="18" y="17" width="124" height="57" rx="2" stroke="#79AD9B" stroke-opacity=".5"/>
+      <path d="M111 17v57" stroke="#B3D4C0" stroke-opacity=".28"/>
+      <g fill="#1B3B32"><circle cx="12" cy="12" r="5"/><circle cx="80" cy="10" r="4.5"/><circle cx="148" cy="12" r="5"/><circle cx="12" cy="79" r="5"/><circle cx="80" cy="81" r="4.5"/><circle cx="148" cy="79" r="5"/></g>
+      <g fill="#C9BB95"><circle cx="40" cy="6" r="1.2"/><circle cx="119" cy="6" r="1.2"/><circle cx="40" cy="85" r="1.2"/><circle cx="119" cy="85" r="1.2"/></g>
+    </g>
+  </defs>
+  <path fill="#E6EDDA" d="M0 0h1200v820H0z"/>
+  <circle cx="1093" cy="749" r="256" fill="#D3DFBD"/>
+  <path d="M0 0h493L0 338Z" fill="#F0F3E8"/>
+  <g filter="url(#shadow)">
+    <rect x="70" y="58" width="1060" height="704" rx="18" fill="#F4F6EE"/>
+    <g clip-path="url(#window)">
+      <path fill="#E5EADD" d="M70 58h1060v42H70z"/>
+      <path d="M70 100h1060" stroke="#D7E0CE"/>
+      <circle cx="94" cy="79" r="4" fill="#ADBEA2"/><circle cx="109" cy="79" r="4" fill="#BDCCB2"/><circle cx="124" cy="79" r="4" fill="#CBD6C2"/>
+      <rect x="445" y="69" width="310" height="20" rx="5" fill="#DCE4D2"/>
+      <path d="M535 78v-2a3 3 0 0 1 6 0v2m-7 0h8v6h-8z" stroke="#8C9E82" stroke-width="1.1"/>
+      <text x="552" y="82.5" fill="#7E9274" font-family="Arial, sans-serif" font-size="10">app.pooltabletracker.com</text>
+      <path fill="#1C342C" d="M70 100h192v662H70z"/>
+      <circle cx="107" cy="140" r="14" fill="#CEE1B8"/><circle cx="107" cy="140" r="6" fill="#1C342C"/><text x="107" y="143" text-anchor="middle" fill="#D3E4BF" font-family="Arial, sans-serif" font-size="8" font-weight="700">8</text>
+      <text x="130" y="139" fill="#F4F6E9" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="-.3">poolhouse</text><text x="130" y="153" fill="#8CA487" font-family="Arial, sans-serif" font-size="8" letter-spacing="1.8">TABLE TRACKER</text>
+      <rect x="86" y="190" width="160" height="35" rx="6" fill="#2E4A3D"/>
+      <path d="M101 201h5v5h-5zM110 201h5v5h-5zM101 210h5v5h-5zM110 210h5v5h-5z" stroke="#D2E3B6" stroke-width="1.2"/>
+      <text x="128" y="212" fill="#E5EECF" font-family="Arial, sans-serif" font-size="11">Live floor</text>
+      <circle cx="230" cy="208" r="3" fill="#BCD790"/>
+      <g stroke="#789780" stroke-width="1.3" stroke-linejoin="round"><path d="M101 242h14v10h-14zM104 254v3m8-3v3m-8-10h8"/><path d="M102 282h12v12h-12zM105 279v5m6-5v5m-9 3h12"/><circle cx="106" cy="322" r="3.5"/><path d="M100 332v-2a6 6 0 0 1 12 0v2m2-14a3 3 0 0 1 0 6m2 2a5 5 0 0 1 3 5"/><path d="M102 369v-8m5 8v-14m5 14v-10m-13 13h17"/></g>
+      <g fill="#8CA58F" font-family="Arial, sans-serif" font-size="11"><text x="128" y="251">Sessions</text><text x="128" y="290">Bookings</text><text x="128" y="329">Players</text><text x="128" y="368">Reports</text></g>
+      <text x="91" y="564" fill="#5D806B" font-family="Arial, sans-serif" font-size="8" letter-spacing="1.4">YOUR VENUE</text>
+      <rect x="86" y="580" width="160" height="65" rx="7" fill="#254237" stroke="#365347"/>
+      <text x="100" y="602" fill="#C2D5B7" font-family="Arial, sans-serif" font-size="11" font-weight="700">The Corner Pocket</text><text x="100" y="621" fill="#789A83" font-family="Arial, sans-serif" font-size="9">Dhaka · 6 tables</text><path d="m226 607 4 4 4-4" stroke="#7D9D87" stroke-width="1.1"/>
+      <path d="M86 678h160" stroke="#355045"/>
+      <circle cx="105" cy="710" r="15" fill="#6A8970"/><text x="105" y="714" text-anchor="middle" fill="#E5EEDB" font-family="Arial, sans-serif" font-size="10" font-weight="700">VA</text><text x="130" y="707" fill="#CDDBC4" font-family="Arial, sans-serif" font-size="10">Venue Admin</text><text x="130" y="723" fill="#73947D" font-family="Arial, sans-serif" font-size="8.5">Venue manager</text>
+      <text x="299" y="140" fill="#839573" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.3">THE CORNER POCKET / LIVE FLOOR</text>
+      <text x="297" y="186" fill="#2B4534" font-family="Georgia, serif" font-size="37" letter-spacing="-1">Every table. Every moment.</text>
+      <text x="299" y="213" fill="#95A18B" font-family="Arial, sans-serif" font-size="11.5">A good night starts with a clear view of your floor.</text>
+      <rect x="948" y="122" width="145" height="31" rx="6" fill="#E8EFDC" stroke="#D7E0C8"/><circle cx="963" cy="137" r="3" fill="#8EA95F"/><text x="975" y="141" fill="#788C5F" font-family="Arial, sans-serif" font-size="10">Live · Updated just now</text>
+      <g font-family="Arial, sans-serif">
+        <rect x="299" y="243" width="185" height="80" rx="9" fill="#DFEACA"/><text x="315" y="266" fill="#7A8D61" font-size="10">Tables in play</text><text x="315" y="301" fill="#405C35" font-size="28" font-weight="700" letter-spacing="-1">4<tspan fill="#94A47C" font-size="18"> / 6</tspan></text><circle cx="456" cy="288" r="13" fill="#CDDEB1"/><path d="M449 283h14v10h-14zM452 296v-3m8 3v-3" stroke="#7F995E" stroke-width="1.2"/>
+        <rect x="497" y="243" width="185" height="80" rx="9" fill="#FCFDF8" stroke="#E1E7D8"/><text x="513" y="266" fill="#9BA68E" font-size="10">Today's revenue</text><text x="513" y="301" fill="#3A533A" font-size="26" font-weight="700" letter-spacing="-.7">৳8,450</text><text x="626" y="300" fill="#8BA472" font-size="9">↑ 18%</text>
+        <rect x="695" y="243" width="185" height="80" rx="9" fill="#FCFDF8" stroke="#E1E7D8"/><text x="711" y="266" fill="#9BA68E" font-size="10">Sessions completed</text><text x="711" y="301" fill="#3A533A" font-size="28" font-weight="700">24</text><path d="m845 287 4 4 7-8" stroke="#A3B58A" stroke-width="1.5" stroke-linecap="round"/>
+        <rect x="893" y="243" width="200" height="80" rx="9" fill="#FCFDF8" stroke="#E1E7D8"/><text x="909" y="266" fill="#9BA68E" font-size="10">Average session</text><text x="909" y="301" fill="#3A533A" font-size="28" font-weight="700">48<tspan font-size="15" font-weight="400"> min</tspan></text><circle cx="1065" cy="288" r="9" stroke="#A5B58E" stroke-width="1.2"/><path d="M1065 282v6l4 2" stroke="#A5B58E" stroke-width="1.2"/>
+      </g>
+      <text x="299" y="359" fill="#425A3C" font-family="Arial, sans-serif" font-size="13" font-weight="700">Your tables</text>
+      <rect x="651" y="342" width="65" height="26" rx="5" fill="#E6EDDA"/><text x="683" y="359" text-anchor="middle" fill="#788D60" font-family="Arial, sans-serif" font-size="9.5">All tables</text><text x="735" y="359" fill="#A0AC94" font-family="Arial, sans-serif" font-size="9.5">Available</text>
+      <g>
+        <rect x="299" y="383" width="244" height="155" rx="9" fill="#FCFDF8" stroke="#DCE5D1"/>
+        <text x="314" y="405" fill="#526949" font-family="Arial, sans-serif" font-size="11" font-weight="700">Table 01</text><rect x="477" y="392" width="51" height="19" rx="9.5" fill="#E3EDD6"/><circle cx="487" cy="401.5" r="2.5" fill="#86A25C"/><text x="494" y="405" fill="#7A9558" font-family="Arial, sans-serif" font-size="8">In play</text>
+        <use href="#poolTable" x="341" y="418"/>
+        <g><circle cx="396" cy="463" r="3.3" fill="#F7F1DD"/><circle cx="434" cy="451" r="3.3" fill="#E8BD4E"/><circle cx="444" cy="470" r="3.3" fill="#243E36"/><circle cx="425" cy="477" r="3.3" fill="#B25E4A"/></g>
+        <text x="314" y="525" fill="#9CA88F" font-family="Arial, sans-serif" font-size="9">Rafi &amp; Samin</text><text x="528" y="525" text-anchor="end" fill="#678250" font-family="Arial, sans-serif" font-size="10" font-weight="700">00:42:18</text>
+      </g>
+      <g>
+        <rect x="557" y="383" width="244" height="155" rx="9" fill="#FCFDF8" stroke="#DCE5D1"/>
+        <text x="572" y="405" fill="#526949" font-family="Arial, sans-serif" font-size="11" font-weight="700">Table 02</text><rect x="725" y="392" width="61" height="19" rx="9.5" fill="#F0F3E9"/><text x="755" y="405" text-anchor="middle" fill="#A2AD94" font-family="Arial, sans-serif" font-size="8">Available</text>
+        <use href="#poolTable" x="599" y="418" opacity=".64"/>
+        <path d="m675 458 5-7 5 7-5 8-5-8Z" fill="#E6EFDD" fill-opacity=".5"/>
+        <text x="572" y="525" fill="#A5AF9A" font-family="Arial, sans-serif" font-size="9">Ready for the next game</text><path d="M768 521h14m-4-4 4 4-4 4" stroke="#97A887" stroke-width="1.2"/>
+      </g>
+      <g>
+        <rect x="299" y="550" width="244" height="155" rx="9" fill="#FCFDF8" stroke="#DCE5D1"/>
+        <text x="314" y="572" fill="#526949" font-family="Arial, sans-serif" font-size="11" font-weight="700">Table 03</text><rect x="477" y="559" width="51" height="19" rx="9.5" fill="#E3EDD6"/><circle cx="487" cy="568.5" r="2.5" fill="#86A25C"/><text x="494" y="572" fill="#7A9558" font-family="Arial, sans-serif" font-size="8">In play</text>
+        <use href="#poolTable" x="341" y="585"/>
+        <circle cx="382" cy="625" r="3.3" fill="#F7F1DD"/><circle cx="452" cy="614" r="3.3" fill="#C68743"/><circle cx="446" cy="620" r="3.3" fill="#2E4A41"/><circle cx="458" cy="620" r="3.3" fill="#B56B55"/><circle cx="440" cy="626" r="3.3" fill="#E7D1A0"/><circle cx="452" cy="626" r="3.3" fill="#7086A5"/><circle cx="464" cy="626" r="3.3" fill="#E1B645"/>
+        <text x="314" y="692" fill="#9CA88F" font-family="Arial, sans-serif" font-size="9">Zara &amp; Ahmed</text><text x="528" y="692" text-anchor="end" fill="#678250" font-family="Arial, sans-serif" font-size="10" font-weight="700">00:18:42</text>
+      </g>
+      <g>
+        <rect x="557" y="550" width="244" height="155" rx="9" fill="#FCFDF8" stroke="#DCE5D1"/>
+        <text x="572" y="572" fill="#526949" font-family="Arial, sans-serif" font-size="11" font-weight="700">Table 04</text><rect x="735" y="559" width="51" height="19" rx="9.5" fill="#E3EDD6"/><circle cx="745" cy="568.5" r="2.5" fill="#86A25C"/><text x="752" y="572" fill="#7A9558" font-family="Arial, sans-serif" font-size="8">In play</text>
+        <use href="#poolTable" x="599" y="585"/>
+        <circle cx="642" cy="634" r="3.3" fill="#F7F1DD"/><circle cx="711" cy="616" r="3.3" fill="#DDB847"/><circle cx="682" cy="624" r="3.3" fill="#2F4640"/><circle cx="696" cy="639" r="3.3" fill="#C98756"/>
+        <text x="572" y="692" fill="#9CA88F" font-family="Arial, sans-serif" font-size="9">Omar &amp; Farhan</text><text x="786" y="692" text-anchor="end" fill="#678250" font-family="Arial, sans-serif" font-size="10" font-weight="700">01:06:09</text>
+      </g>
+      <rect x="823" y="342" width="270" height="204" rx="10" fill="#263F33"/>
+      <text x="841" y="369" fill="#D3E2BB" font-family="Arial, sans-serif" font-size="11" font-weight="700">MATCH IN FOCUS</text><rect x="1024" y="354" width="51" height="20" rx="10" fill="#3B5743"/><circle cx="1034" cy="364" r="2.5" fill="#C2D599"/><text x="1041" y="367" fill="#B5CB9C" font-family="Arial, sans-serif" font-size="8">Live</text>
+      <text x="841" y="391" fill="#6F9274" font-family="Arial, sans-serif" font-size="9">Table 01 · Race to 7</text>
+      <circle cx="880" cy="422" r="14" fill="#6B8E6A"/><text x="880" y="426" text-anchor="middle" fill="#E1EBCD" font-family="Arial, sans-serif" font-size="10" font-weight="700">R</text><circle cx="1035" cy="422" r="14" fill="#A2B48A"/><text x="1035" y="426" text-anchor="middle" fill="#405B37" font-family="Arial, sans-serif" font-size="10" font-weight="700">S</text>
+      <text x="880" y="451" text-anchor="middle" fill="#C5D6B5" font-family="Arial, sans-serif" font-size="10">Rafi</text><text x="1035" y="451" text-anchor="middle" fill="#C5D6B5" font-family="Arial, sans-serif" font-size="10">Samin</text>
+      <text x="914" y="444" text-anchor="middle" fill="#D9E7B9" font-family="Arial, sans-serif" font-size="34" font-weight="700">4</text><text x="957" y="438" text-anchor="middle" fill="#67896D" font-family="Arial, sans-serif" font-size="16">:</text><text x="999" y="444" text-anchor="middle" fill="#D9E7B9" font-family="Arial, sans-serif" font-size="34" font-weight="700">2</text>
+      <path d="M841 470h234" stroke="#3D5745"/><text x="841" y="492" fill="#83A183" font-family="Arial, sans-serif" font-size="9">Session time</text><text x="1075" y="492" text-anchor="end" fill="#BDCFAB" font-family="Arial, sans-serif" font-size="11" font-weight="700">00:42:18</text>
+      <text x="841" y="522" fill="#9DB68E" font-family="Arial, sans-serif" font-size="9.5">Manage session</text><path d="M1060 517h14m-4-4 4 4-4 4" stroke="#9DB68E" stroke-width="1.2"/>
+      <rect x="823" y="560" width="270" height="145" rx="10" fill="#FCFDF8" stroke="#E0E7D4"/>
+      <text x="841" y="586" fill="#52694A" font-family="Arial, sans-serif" font-size="11" font-weight="700">Up next</text><text x="1075" y="586" text-anchor="end" fill="#A1AD92" font-family="Arial, sans-serif" font-size="9">View bookings</text>
+      <rect x="841" y="602" width="37" height="37" rx="6" fill="#EAF0DF"/><text x="859.5" y="617" text-anchor="middle" fill="#A0AE87" font-family="Arial, sans-serif" font-size="8">TABLE</text><text x="859.5" y="631" text-anchor="middle" fill="#748B5B" font-family="Arial, sans-serif" font-size="12" font-weight="700">05</text>
+      <text x="891" y="616" fill="#718466" font-family="Arial, sans-serif" font-size="10.5" font-weight="700">Hasan Rahman</text><text x="891" y="633" fill="#A9B39D" font-family="Arial, sans-serif" font-size="9">7:30 PM · 2 players</text><circle cx="1067" cy="620" r="3" fill="#B9CA91"/>
+      <path d="M841 651h234" stroke="#EDF0E7"/>
+      <text x="841" y="678" fill="#9EAC91" font-family="Arial, sans-serif" font-size="9">Next booking in</text><text x="1075" y="679" text-anchor="end" fill="#748A5F" font-family="Arial, sans-serif" font-size="12" font-weight="700">18 minutes</text>
+      <text x="299" y="734" fill="#A0AE90" font-family="Arial, sans-serif" font-size="9">A little order. A lot more game.</text><circle cx="1015" cy="730" r="2.5" fill="#A9BC86"/><text x="1024" y="734" fill="#A0AE90" font-family="Arial, sans-serif" font-size="9">All systems go</text>
+    </g>
+    <rect x="70.5" y="58.5" width="1059" height="703" rx="17.5" stroke="#FFFFFF" stroke-opacity=".7"/>
+  </g>
+</svg>

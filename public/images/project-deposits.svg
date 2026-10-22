@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Deposits for WooCommerce — flexible product payment concept</title>
+  <desc id="desc">An original commerce interface illustration featuring an orange geometric chair, full payment and deposit choices, and a transparent partial payment summary. This is an artistic reconstruction, not a screenshot.</desc>
+  <defs>
+    <filter id="shadow" x="10" y="10" width="1180" height="800" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#6A3824" flood-opacity=".13"/></filter>
+    <filter id="chairShadow" x="160" y="455" width="370" height="145" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="12"/></filter>
+    <linearGradient id="backdrop" x1="330" y1="239" x2="330" y2="646" gradientUnits="userSpaceOnUse"><stop stop-color="#F3E9DC"/><stop offset="1" stop-color="#E8D9C6"/></linearGradient>
+    <linearGradient id="cushion" x1="237" y1="348" x2="433" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#D07643"/><stop offset="1" stop-color="#BB5B2C"/></linearGradient>
+    <clipPath id="window"><rect x="70" y="58" width="1060" height="704" rx="18"/></clipPath>
+    <clipPath id="product"><rect x="125" y="236" width="438" height="407" rx="7"/></clipPath>
+  </defs>
+  <path fill="#EEE3D7" d="M0 0h1200v820H0z"/>
+  <path d="M0 0h330L0 330Z" fill="#F5EDE3"/>
+  <circle cx="1110" cy="814" r="245" fill="#DFC3AD" opacity=".5"/>
+  <g filter="url(#shadow)">
+    <rect x="70" y="58" width="1060" height="704" rx="18" fill="#FEFCF8"/>
+    <g clip-path="url(#window)">
+      <path fill="#F0EAE2" d="M70 58h1060v42H70z"/>
+      <path d="M70 100h1060" stroke="#E8DFD4"/>
+      <circle cx="94" cy="79" r="4" fill="#C6AB96"/><circle cx="109" cy="79" r="4" fill="#D1BCAB"/><circle cx="124" cy="79" r="4" fill="#DDCDBF"/>
+      <rect x="445" y="69" width="310" height="20" rx="5" fill="#E8DFD6"/>
+      <path d="M545 78v-2a3 3 0 0 1 6 0v2m-7 0h8v6h-8z" stroke="#AC9582" stroke-width="1.1"/>
+      <text x="562" y="82.5" fill="#998674" font-family="Arial, sans-serif" font-size="10">morrow.store / the-fold-chair</text>
+      <text x="125" y="153" fill="#34302A" font-family="Georgia, serif" font-size="36" letter-spacing="-1.5">morrow<tspan fill="#C16B3D">.</tspan></text>
+      <g fill="#8C8176" font-family="Arial, sans-serif" font-size="11"><text x="410" y="145">Shop all</text><text x="504" y="145">Living</text><text x="584" y="145">Lighting</text><text x="676" y="145">Our approach</text></g>
+      <path d="M1002 137h13v15h-13zM1005 137v-3a3.5 3.5 0 0 1 7 0v3" stroke="#5B5249" stroke-width="1.2" stroke-linejoin="round"/>
+      <text x="1028" y="148" fill="#6F6459" font-family="Arial, sans-serif" font-size="11">Bag (0)</text>
+      <path d="M125 180h950" stroke="#EBE5DD"/>
+      <text x="125" y="211" fill="#A89D90" font-family="Arial, sans-serif" font-size="10">Home <tspan dx="12">/</tspan><tspan dx="12">Seating</tspan><tspan dx="12">/</tspan><tspan dx="12" fill="#6D6054">The Fold Chair</tspan></text>
+      <g clip-path="url(#product)">
+        <path fill="url(#backdrop)" d="M125 236h438v407H125z"/>
+        <path d="M125 535h438v108H125z" fill="#DDCCB7" fill-opacity=".55"/>
+        <path d="M125 535h438" stroke="#CEBAA1" stroke-opacity=".3"/>
+        <ellipse cx="347" cy="544" rx="139" ry="19" fill="#997454" opacity=".19" filter="url(#chairShadow)"/>
+        <path d="m222 504 16 39 16-1-12-48Z" fill="#71503B"/>
+        <path d="m398 497 13 45h15l-10-53Z" fill="#674832"/>
+        <path d="m272 477 4 50 12 3 4-52Z" fill="#674832"/>
+        <path d="m437 456 1 54 12-2 3-58Z" fill="#71503B"/>
+        <path d="m216 376 25-16 36 119-35 21Z" fill="#9F4721"/>
+        <path d="m218 372 21-15 31 104-25 14Z" fill="#CC7549"/>
+        <path d="m251 328 117-35 69 125-124 45Z" fill="url(#cushion)"/>
+        <path d="m251 328 16-10 102-31 5 6-120 39Z" fill="#E29A6D"/>
+        <path d="m251 328 63 124-4 16-68-134Z" fill="#A84D28"/>
+        <path d="m314 452 122-39 11 34-131 49-78-26 5-24Z" fill="#C26537"/>
+        <path d="m243 446 72 17 121-40 11 16-129 47-80-20Z" fill="#DF8B59"/>
+        <path d="m238 466 80 20v24l-76-10Z" fill="#B55C31"/>
+        <path d="m318 486 129-47 1 22-130 49Z" fill="#A54E28"/>
+        <path d="m415 368 24-8 31 87-22 14Z" fill="#AD512A"/>
+        <path d="m411 364 24-9 30 81-21 10Z" fill="#DF8959"/>
+        <path d="m259 334 55 106" stroke="#E89E70" stroke-opacity=".4"/>
+        <path d="m374 298 52 107" stroke="#8D3B1D" stroke-opacity=".3"/>
+      </g>
+      <rect x="145" y="256" width="103" height="24" rx="12" fill="#FBF7F0" fill-opacity=".85"/><text x="158" y="272" fill="#91755C" font-family="Arial, sans-serif" font-size="9.5" letter-spacing="1">THE SLOW EDIT</text>
+      <text x="145" y="618" fill="#A08A72" font-family="Arial, sans-serif" font-size="9.5">01 — Designed to stay.</text>
+      <rect x="519" y="599" width="27" height="27" rx="13.5" fill="#FBF7EF" fill-opacity=".86"/><path d="M528 613h9m-4-4 4 4-4 4" stroke="#9A7F65" stroke-width="1.1"/>
+      <g>
+        <rect x="125" y="658" width="61" height="56" rx="5" fill="#EBDDCF" stroke="#B77A53"/>
+        <path d="m142 676 17-6 10 19-20 7Z" fill="#C97746"/><path d="m143 692 10 2 15-5v6l-15 5-11-3Z" fill="#AD5A33"/><path d="m146 697 2 8m14-9 2 8" stroke="#81593E" stroke-width="2"/>
+        <rect x="197" y="658" width="61" height="56" rx="5" fill="#EEE5D9"/>
+        <path d="m215 674 17 1 5 19-20 2Z" fill="#D4BE9D"/><path d="m214 692 20 2 4 6-23-2Z" fill="#B8A07D"/><path d="m217 698-1 7m17-7 1 7" stroke="#8D785D" stroke-width="2"/>
+        <rect x="269" y="658" width="61" height="56" rx="5" fill="#E5D6C4"/>
+        <path d="m277 658 49 56m-42-56 46 53m-34-53 34 39m-22-39 22 26m-10-26 10 12" stroke="#B28A64" stroke-opacity=".55" stroke-width="2"/>
+      </g>
+      <path d="m369 677 5-6h13l5 6v13h-23Z" stroke="#A68E76" stroke-width="1.1"/><path d="M380 671v19m-11-13h23" stroke="#A68E76" stroke-width="1.1"/>
+      <text x="405" y="679" fill="#8A7968" font-family="Arial, sans-serif" font-size="10">Thoughtfully made.</text><text x="405" y="696" fill="#B4A38F" font-family="Arial, sans-serif" font-size="9">Delivered with care.</text>
+      <text x="619" y="249" fill="#B77A53" font-family="Arial, sans-serif" font-size="9.5" letter-spacing="1.6">GOOD DESIGN. EVERY DAY.</text>
+      <text x="617" y="292" fill="#3D332B" font-family="Georgia, serif" font-size="37" letter-spacing="-1.3">The Fold Chair</text>
+      <text x="619" y="322" fill="#665246" font-family="Arial, sans-serif" font-size="21" font-weight="500">$640.00</text>
+      <text x="958" y="319" fill="#B67547" font-family="Arial, sans-serif" font-size="13" letter-spacing="1">★★★★★</text>
+      <text x="1036" y="319" fill="#A29383" font-family="Arial, sans-serif" font-size="10">(24)</text>
+      <text x="619" y="351" fill="#A19485" font-family="Arial, sans-serif" font-size="11">Sculptural lines, a generous seat, and room to slow down.</text>
+      <text x="619" y="385" fill="#7E6C5C" font-family="Arial, sans-serif" font-size="10">Color: <tspan font-weight="700">Burnt orange</tspan></text>
+      <circle cx="827" cy="381" r="11" stroke="#BD7347"/><circle cx="827" cy="381" r="7.5" fill="#C47244"/><circle cx="859" cy="381" r="8" fill="#B8B39A"/><circle cx="890" cy="381" r="8" fill="#D2BC99"/>
+      <path d="M619 407h455" stroke="#EBE3D9"/>
+      <text x="619" y="434" fill="#5E4D3E" font-family="Arial, sans-serif" font-size="11" font-weight="700">Make it yours, your way.</text>
+      <rect x="946" y="420" width="128" height="21" rx="10.5" fill="#F3E9DE"/><text x="957" y="434" fill="#B0805E" font-family="Arial, sans-serif" font-size="8.5">FLEXIBLE PAYMENTS</text>
+      <rect x="619" y="452" width="455" height="53" rx="7" fill="#FEFCF8" stroke="#E5DCCF"/>
+      <circle cx="639" cy="478" r="7" stroke="#D0C4B5" stroke-width="1.2"/>
+      <text x="657" y="475" fill="#827363" font-family="Arial, sans-serif" font-size="11" font-weight="700">Pay in full</text><text x="657" y="490" fill="#B0A292" font-family="Arial, sans-serif" font-size="9">One payment. All yours.</text>
+      <text x="1055" y="483" text-anchor="end" fill="#8D7968" font-family="Arial, sans-serif" font-size="13">$640.00</text>
+      <rect x="619" y="515" width="455" height="58" rx="7" fill="#FAEDE1" stroke="#C77D4D" stroke-width="1.2"/>
+      <circle cx="639" cy="544" r="7" stroke="#BC6D3D" stroke-width="1.2"/><circle cx="639" cy="544" r="3.5" fill="#BC6D3D"/>
+      <text x="657" y="540" fill="#865332" font-family="Arial, sans-serif" font-size="11" font-weight="700">Pay a 25% deposit</text><text x="657" y="557" fill="#B08B6D" font-family="Arial, sans-serif" font-size="9">Reserve now. Pay the rest before delivery.</text>
+      <text x="1055" y="549" text-anchor="end" fill="#A96135" font-family="Arial, sans-serif" font-size="15" font-weight="700">$160.00</text>
+      <text x="619" y="600" fill="#A38E79" font-family="Arial, sans-serif" font-size="10">Due today</text><text x="1074" y="600" text-anchor="end" fill="#6D5744" font-family="Arial, sans-serif" font-size="11" font-weight="700">$160.00</text>
+      <text x="619" y="619" fill="#B4A392" font-family="Arial, sans-serif" font-size="9.5">Remaining balance</text><text x="1074" y="619" text-anchor="end" fill="#A38D79" font-family="Arial, sans-serif" font-size="10">$480.00</text>
+      <rect x="619" y="639" width="455" height="44" rx="6" fill="#BD693D"/>
+      <path d="M641 654h11v14h-11zM644 654v-2a2.5 2.5 0 0 1 5 0v2" stroke="#F6DFCA" stroke-width="1.2" stroke-linejoin="round"/>
+      <text x="824" y="666" text-anchor="middle" fill="#FFF6EC" font-family="Arial, sans-serif" font-size="11.5" font-weight="700">Add to bag — $160.00 today</text>
+      <path d="M1041 661h13m-4-4 4 4-4 4" stroke="#F6DFCA" stroke-width="1.2"/>
+      <path d="M733 702v-3a3 3 0 1 1 6 0v3m-7 0h8v7h-8z" stroke="#B7A38E" stroke-width="1.1"/>
+      <text x="748" y="708" fill="#AD9A86" font-family="Arial, sans-serif" font-size="9">Secure checkout · No interest, no surprises.</text>
+      <path d="M70 740h1060" stroke="#EBE4D9"/>
+    </g>
+    <rect x="70.5" y="58.5" width="1059" height="703" rx="17.5" stroke="#FFFFFF" stroke-opacity=".75"/>
+  </g>
+</svg>

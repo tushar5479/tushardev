@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">FlowBridge Forms — WordPress form workflow</title>
+  <desc id="desc">An original illustrative overview based on the public FlowBridge Forms repository, not a product screenshot. Three connected stages show building a custom form, collecting and validating a multi-step submission with file uploads, and delivering it to CRM or API integrations and email notifications.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18283B"/><stop offset="1" stop-color="#0D1723"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="64" y1="320" x2="1136" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#223447"/><stop offset="1" stop-color="#142333"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="450" y1="350" x2="745" y2="625" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C2F970" stop-opacity=".13"/><stop offset="1" stop-color="#C2F970" stop-opacity=".02"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#DDE6E9" stroke-opacity=".035"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="m2 1 4 4-4 4" stroke="#C2F970" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="820" fill="url(#background)"/>
+  <rect width="1200" height="820" fill="url(#grid)"/>
+  <path d="M982 0v820M0 696h1200" stroke="#B4C4CF" stroke-opacity=".08"/>
+  <circle cx="1110" cy="83" r="160" stroke="#C2F970" stroke-opacity=".07"/>
+  <circle cx="1110" cy="83" r="203" stroke="#C2F970" stroke-opacity=".035"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="74" cy="69" r="5" fill="#C2F970"/>
+    <text x="91" y="76" fill="#B4C2CE" font-size="18" letter-spacing="2">WORDPRESS PLUGIN · WORKFLOW OVERVIEW</text>
+    <text x="64" y="151" fill="#F4F1E8" font-size="60" font-weight="600" letter-spacing="-2.4">FlowBridge Forms<tspan fill="#C2F970">.</tspan></text>
+    <text x="67" y="198" fill="#B2BEC9" font-size="25">From a custom form to a connected workflow.</text>
+
+    <g transform="translate(940 122)" stroke="#C2F970" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="-27" width="36" height="36" rx="8" fill="#C2F970" fill-opacity=".07"/>
+      <path d="M10-16h16M10-7h10M18 9v22q0 9 9 9h32m-41-9q0 9-9 9H-3M59 33l7 7-7 7"/>
+      <rect x="-35" y="25" width="32" height="30" rx="7" fill="#172739"/>
+      <rect x="66" y="25" width="32" height="30" rx="7" fill="#172739"/>
+    </g>
+
+    <path d="M64 239h1072" stroke="#B8C8D1" stroke-opacity=".16"/>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="19" fill="#C2F970">
+      <text x="66" y="287">01</text><text x="445" y="287">02</text><text x="824" y="287">03</text>
+    </g>
+    <g fill="#F4F1E8" font-size="25" font-weight="600" letter-spacing="-.4">
+      <text x="103" y="287">Build the form</text>
+      <text x="482" y="287">Collect &amp; validate</text>
+      <text x="861" y="287">Deliver the submission</text>
+    </g>
+
+    <rect x="64" y="318" width="314" height="320" rx="18" fill="url(#panel)" stroke="#4A5C6B" stroke-opacity=".65"/>
+    <rect x="443" y="318" width="314" height="320" rx="18" fill="url(#panel)" stroke="#97B86B" stroke-opacity=".55"/>
+    <rect x="443" y="318" width="314" height="320" rx="18" fill="url(#accent)"/>
+    <rect x="822" y="318" width="314" height="320" rx="18" fill="url(#panel)" stroke="#4A5C6B" stroke-opacity=".65"/>
+
+    <g stroke="#6E8395" stroke-opacity=".55" stroke-width="1.5">
+      <path d="M91 371h260M91 439h260M91 507h260M91 575h260"/>
+      <path d="M107 392h13m-6.5-6.5v13M107 460h13m-6.5-6.5v13M107 528h13m-6.5-6.5v13"/>
+    </g>
+    <text x="91" y="355" fill="#AEBEC9" font-family="Consolas, 'Courier New', monospace" font-size="18">FORM FIELDS</text>
+    <g fill="#F4F1E8" font-size="25">
+      <text x="139" y="403">Name</text><text x="139" y="471">Email</text><text x="139" y="539">File upload</text>
+    </g>
+    <g stroke="#91A2AF" stroke-width="1.7" stroke-linecap="round">
+      <path d="M323 388h7m-7 7h7M323 456h7m-7 7h7M323 524h7m-7 7h7"/>
+    </g>
+    <text x="91" y="609" fill="#AEBEC9" font-size="19">Custom fields. Your structure.</text>
+
+    <path d="M390 479h40M769 479h40" stroke="#C2F970" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="470" y="355" fill="#B8C8B0" font-family="Consolas, 'Courier New', monospace" font-size="18">MULTI-STEP FLOW</text>
+    <path d="M495 415h210" stroke="#748C62" stroke-width="2"/>
+    <path d="M495 415h105" stroke="#C2F970" stroke-width="2"/>
+    <g stroke="#C2F970" stroke-width="1.5">
+      <circle cx="495" cy="415" r="21" fill="#C2F970"/>
+      <circle cx="600" cy="415" r="21" fill="#243A31"/>
+      <circle cx="705" cy="415" r="21" fill="#1B2B35" stroke-opacity=".4"/>
+    </g>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="20" text-anchor="middle">
+      <text x="495" y="422" fill="#152022">1</text><text x="600" y="422" fill="#C2F970">2</text><text x="705" y="422" fill="#AEBEC9">3</text>
+    </g>
+    <path d="M470 479h260" stroke="#8BA376" stroke-opacity=".35"/>
+    <rect x="470" y="502" width="260" height="61" rx="10" fill="#C2F970" fill-opacity=".08" stroke="#C2F970" stroke-opacity=".2"/>
+    <circle cx="497" cy="532" r="10" stroke="#C2F970" stroke-width="1.7"/>
+    <path d="m492 532 3 3 6-7" stroke="#C2F970" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="519" y="540" fill="#E3EBCF" font-size="23">Validate inputs</text>
+    <text x="470" y="609" fill="#BAC8B5" font-size="19">Clear progress. File uploads.</text>
+
+    <text x="849" y="355" fill="#AEBEC9" font-family="Consolas, 'Courier New', monospace" font-size="18">CONNECTED OUTPUTS</text>
+    <path d="M849 479h16q10 0 10-10v-49q0-10 10-10h18M875 469v68q0 10 10 10h18" stroke="#C2F970" stroke-width="2"/>
+    <circle cx="849" cy="479" r="4" fill="#C2F970"/>
+    <circle cx="875" cy="479" r="4" fill="#C2F970"/>
+    <rect x="905" y="382" width="204" height="66" rx="11" fill="#1D3244" stroke="#536C7D"/>
+    <rect x="905" y="514" width="204" height="66" rx="11" fill="#1D3244" stroke="#536C7D"/>
+    <g stroke="#C2F970" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m929 407-7 7 7 7m17-14 7 7-7 7m-7-18-4 22"/>
+      <rect x="921" y="537" width="31" height="21" rx="3"/><path d="m922 539 14 10 15-10"/>
+    </g>
+    <g fill="#F4F1E8" font-size="24" font-weight="500">
+      <text x="968" y="423">CRM / API</text><text x="968" y="555">Email</text>
+    </g>
+    <text x="849" y="609" fill="#AEBEC9" font-size="19">Route data. Notify your team.</text>
+
+    <rect x="64" y="667" width="263" height="47" rx="23.5" fill="#F4F1E8" fill-opacity=".06" stroke="#AEBEC9" stroke-opacity=".15"/>
+    <text x="87" y="697" fill="#CDD5D9" font-size="20">Elementor + shortcode</text>
+    <text x="1136" y="698" text-anchor="end" fill="#8D9FAD" font-family="Consolas, 'Courier New', monospace" font-size="18">BUILD → COLLECT → CONNECT</text>
+    <path d="M64 744h1072" stroke="#B8C8D1" stroke-opacity=".16"/>
+    <text x="1136" y="783" text-anchor="end" fill="#A4B5C3" font-size="18">Illustrative workflow</text>
+  </g>
+</svg>

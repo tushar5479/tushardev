@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">CBA Estate — real estate interface concept</title>
+  <desc id="desc">An original interface illustration showing a refined property search website, an architectural house and curated property listings. This is an artistic reconstruction, not a screenshot.</desc>
+  <defs>
+    <filter id="shadow" x="10" y="10" width="1180" height="800" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#263B29" flood-opacity=".13"/></filter>
+    <linearGradient id="sky" x1="850" y1="201" x2="850" y2="541" gradientUnits="userSpaceOnUse"><stop stop-color="#E8EBDD"/><stop offset="1" stop-color="#D7DBC8"/></linearGradient>
+    <linearGradient id="wall" x1="781" y1="353" x2="990" y2="489" gradientUnits="userSpaceOnUse"><stop stop-color="#FAF9EF"/><stop offset="1" stop-color="#D3D4C3"/></linearGradient>
+    <pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".55" fill="#143B2E" opacity=".04"/><circle cx="6" cy="6" r=".5" fill="#143B2E" opacity=".035"/></pattern>
+    <clipPath id="window"><rect x="70" y="58" width="1060" height="704" rx="18"/></clipPath>
+    <clipPath id="hero"><rect x="656" y="200" width="414" height="342" rx="9"/></clipPath>
+  </defs>
+  <path fill="#E3E7DC" d="M0 0h1200v820H0z"/>
+  <circle cx="1124" cy="109" r="205" fill="#D7DDCC"/>
+  <path d="M0 706c155-79 306-72 468 12s407 111 732-13v115H0Z" fill="#D4DDCE" opacity=".7"/>
+  <rect width="1200" height="820" fill="url(#grain)"/>
+  <g filter="url(#shadow)">
+    <rect x="70" y="58" width="1060" height="704" rx="18" fill="#F9FAF4"/>
+    <g clip-path="url(#window)">
+      <path fill="#F1F3EC" d="M70 58h1060v42H70z"/>
+      <path d="M70 100h1060" stroke="#E1E6DA"/>
+      <circle cx="94" cy="79" r="4" fill="#B9C4B6"/><circle cx="109" cy="79" r="4" fill="#C6CFC1"/><circle cx="124" cy="79" r="4" fill="#D2D8CC"/>
+      <rect x="445" y="69" width="310" height="20" rx="5" fill="#E7EBE0"/>
+      <path d="M565 78v-2a3 3 0 0 1 6 0v2m-7 0h8v6h-8z" stroke="#80917D" stroke-width="1.1"/>
+      <text x="582" y="82.5" fill="#748370" font-family="Arial, sans-serif" font-size="10">cbaestate.com</text>
+      <g fill="#204936"><path d="M130 130h12v12h-12zM146 130h12v12h-12zM130 146h12v12h-12z"/><path d="M146 146h12v12h-12z" opacity=".4"/></g>
+      <text x="169" y="150" fill="#1E3F30" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">CBA ESTATE</text>
+      <g fill="#63715F" font-family="Arial, sans-serif" font-size="12"><text x="560" y="149">Buy a home</text><text x="671" y="149">Rent a home</text><text x="786" y="149">Our story</text></g>
+      <rect x="944" y="126" width="126" height="36" rx="18" fill="#204936"/>
+      <text x="968" y="149" fill="#FAFBF5" font-family="Arial, sans-serif" font-size="12">Get in touch</text>
+      <path d="m1045 143 5 5-5 5m5-5h-9" stroke="#FAFBF5" stroke-width="1.2"/>
+      <rect x="130" y="206" width="147" height="24" rx="12" fill="#E9EDDF"/>
+      <circle cx="144" cy="218" r="3" fill="#77966C"/>
+      <text x="155" y="222" fill="#526C47" font-family="Arial, sans-serif" font-size="10.5" letter-spacing=".3">A BETTER WAY HOME</text>
+      <text x="126" y="293" fill="#213F2F" font-family="Georgia, serif" font-size="55" letter-spacing="-2.4">Find a place</text>
+      <text x="126" y="354" fill="#213F2F" font-family="Georgia, serif" font-size="55" letter-spacing="-2.4">to call <tspan font-style="italic" fill="#7A8F63">home.</tspan></text>
+      <text x="130" y="392" fill="#7A8272" font-family="Arial, sans-serif" font-size="13.5">Thoughtful spaces. New beginnings.</text>
+      <text x="130" y="414" fill="#7A8272" font-family="Arial, sans-serif" font-size="13.5">Discover a home that feels like you.</text>
+      <rect x="130" y="446" width="477" height="90" rx="10" fill="white" stroke="#E1E6DA"/>
+      <text x="150" y="469" fill="#83907D" font-family="Arial, sans-serif" font-size="10" letter-spacing="1">LOCATION</text>
+      <path d="M151 489a5 5 0 1 1 10 0c0 4-5 8-5 8s-5-4-5-8Z" stroke="#4A6544" stroke-width="1.2"/><circle cx="156" cy="489" r="1.5" stroke="#4A6544" stroke-width="1.2"/>
+      <text x="170" y="494" fill="#324F35" font-family="Arial, sans-serif" font-size="12">Austin, Texas</text>
+      <path d="m280 487 4 4 4-4" stroke="#87927C" stroke-width="1.2"/>
+      <path d="M308 466v49" stroke="#E5E9DF"/>
+      <text x="327" y="469" fill="#83907D" font-family="Arial, sans-serif" font-size="10" letter-spacing="1">PROPERTY TYPE</text>
+      <text x="327" y="494" fill="#324F35" font-family="Arial, sans-serif" font-size="12">Modern house</text>
+      <path d="m426 487 4 4 4-4" stroke="#87927C" stroke-width="1.2"/>
+      <rect x="456" y="465" width="132" height="52" rx="6" fill="#204936"/>
+      <circle cx="482" cy="488" r="6" stroke="#FFF" stroke-width="1.4"/><path d="m486 493 4 4" stroke="#FFF" stroke-width="1.4"/>
+      <text x="501" y="494" fill="white" font-family="Arial, sans-serif" font-size="12">Find a home</text>
+      <g clip-path="url(#hero)">
+        <rect x="656" y="200" width="414" height="342" fill="url(#sky)"/>
+        <circle cx="996" cy="256" r="34" fill="#F9F6DE" opacity=".85"/>
+        <path d="M625 469c90-62 159-40 245-45 89-5 149-7 226-45v176H625Z" fill="#B8C6A7"/>
+        <path d="m678 487 234-22 186 59v56H656Z" fill="#8EAA7B"/>
+        <path d="m699 493 166-15 145 60H832Z" fill="#D4D1B9"/>
+        <path d="m719 335 138-41 150 64-140 41Z" fill="#F8F8EB"/>
+        <path d="M719 335v131l148 54V399Z" fill="#DCE0CD"/>
+        <path d="m867 399 140-41v127l-140 35Z" fill="url(#wall)"/>
+        <path d="m710 332 148-47 158 69v11l-150 44-156-59Z" fill="#60735B"/>
+        <path d="m710 332 156 65 150-43-158-69Z" fill="#77856A"/>
+        <path d="m737 366 46 17v84l-46-17Z" fill="#415846"/>
+        <path d="m739 369 19 7v76l-19-7Z" fill="#5C7562"/>
+        <path d="m760 377 20 8v76l-20-8Z" fill="#758D77"/>
+        <path d="m793 386 47 18v91l-47-17Z" fill="#244D3D"/>
+        <path d="m800 390 4 2v87l-4-2Zm15 5 3 1v89l-3-1Zm15 6 3 1v89l-3-1Z" fill="#B7B5A1"/>
+        <path d="m887 415 98-28v69l-98 28Z" fill="#2C4F42"/>
+        <path d="m890 418 44-12v62l-44 13Z" fill="#5E7A6B"/>
+        <path d="m939 404 43-12v62l-43 12Z" fill="#4B695C"/>
+        <path d="m937 403-1 67" stroke="#DBDECB" stroke-width="3"/>
+        <path d="m876 495 131-37v8l-131 37Z" fill="#C4C9B4"/>
+        <path d="m868 520 155-43 8 6-157 46Z" fill="#ECECDA"/>
+        <path d="M693 461v-85" stroke="#6C8060" stroke-width="4"/>
+        <ellipse cx="692" cy="362" rx="26" ry="47" fill="#6D8660"/>
+        <ellipse cx="682" cy="355" rx="18" ry="39" fill="#819972"/>
+        <path d="M1031 486V361" stroke="#667B57" stroke-width="5"/>
+        <ellipse cx="1032" cy="351" rx="31" ry="57" fill="#536F4E"/>
+        <ellipse cx="1020" cy="338" rx="20" ry="43" fill="#67835B"/>
+        <path d="M668 525c38-20 44-20 77-13m272 3c25-10 30-8 58-2" stroke="#6F8E5E" stroke-width="12" stroke-linecap="round"/>
+      </g>
+      <rect x="676" y="219" width="92" height="26" rx="13" fill="#FDFEF9" fill-opacity=".88"/>
+      <circle cx="689" cy="232" r="3" fill="#738C62"/><text x="699" y="236" fill="#435E3A" font-family="Arial, sans-serif" font-size="10">Newly listed</text>
+      <rect x="676" y="485" width="216" height="39" rx="6" fill="#FFF" fill-opacity=".94"/>
+      <text x="689" y="501" fill="#294831" font-family="Arial, sans-serif" font-size="11" font-weight="700">The Willow Residence</text>
+      <text x="689" y="515" fill="#87907D" font-family="Arial, sans-serif" font-size="9.5">East Austin, TX</text>
+      <text x="872" y="508" text-anchor="end" fill="#294831" font-family="Arial, sans-serif" font-size="13" font-weight="700">$645k</text>
+      <path d="M130 575h940" stroke="#E0E6D8"/>
+      <text x="130" y="614" fill="#2D4933" font-family="Georgia, serif" font-size="24" letter-spacing="-.5">A few places you might love.</text>
+      <text x="967" y="612" fill="#58724E" font-family="Arial, sans-serif" font-size="11">All properties</text>
+      <path d="M1051 607h17m-5-5 5 5-5 5" stroke="#58724E" stroke-width="1.2"/>
+      <g font-family="Arial, sans-serif">
+        <rect x="130" y="635" width="297" height="87" rx="8" fill="#F1F3EA"/>
+        <rect x="140" y="645" width="80" height="67" rx="5" fill="#DAE0CE"/>
+        <path d="m151 674 29-18 29 18v27h-58Z" fill="#EDEDDD"/><path d="m148 674 32-21 32 21" stroke="#7B8D72" stroke-width="5"/><path d="M171 677h17v24h-17z" fill="#66806B"/><path d="M158 679h8v10h-8zM194 679h8v10h-8z" fill="#9DAC99"/>
+        <text x="235" y="663" fill="#2B4A33" font-size="12" font-weight="700">Oakwood Cottage</text><text x="235" y="681" fill="#839079" font-size="10">3 beds · 2 baths · 1,840 sq ft</text><text x="235" y="702" fill="#456640" font-size="12" font-weight="700">$425,000</text>
+        <rect x="442" y="635" width="297" height="87" rx="8" fill="#F1F3EA"/>
+        <rect x="452" y="645" width="80" height="67" rx="5" fill="#D3DCCB"/>
+        <path d="M461 672h61v29h-61z" fill="#E9E9D8"/><path d="M470 657h42v44h-42z" fill="#F5F3E7"/><path d="M477 665h28v13h-28zM477 684h28v17h-28z" fill="#6E8774"/><path d="M462 687h8v10h-8zM513 686h8v11h-8z" fill="#91A28B"/>
+        <text x="547" y="663" fill="#2B4A33" font-size="12" font-weight="700">The Grove House</text><text x="547" y="681" fill="#839079" font-size="10">4 beds · 3 baths · 2,650 sq ft</text><text x="547" y="702" fill="#456640" font-size="12" font-weight="700">$780,000</text>
+        <rect x="754" y="635" width="316" height="87" rx="8" fill="#F1F3EA"/>
+        <rect x="764" y="645" width="80" height="67" rx="5" fill="#DEE3D3"/>
+        <path d="M772 665h64v36h-64z" fill="#E7E4D3"/><path d="M768 661h72v6h-72z" fill="#61775F"/><path d="M779 673h14v22h-14zM798 673h14v22h-14zM817 673h11v28h-11z" fill="#718A76"/>
+        <text x="859" y="663" fill="#2B4A33" font-size="12" font-weight="700">Lakeside Retreat</text><text x="859" y="681" fill="#839079" font-size="10">3 beds · 2 baths · 2,120 sq ft</text><text x="859" y="702" fill="#456640" font-size="12" font-weight="700">$560,000</text>
+      </g>
+    </g>
+    <rect x="70.5" y="58.5" width="1059" height="703" rx="17.5" stroke="#FFFFFF" stroke-opacity=".8"/>
+  </g>
+</svg>
